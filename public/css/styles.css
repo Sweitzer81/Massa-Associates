@@ -127,12 +127,21 @@ a {
     width: auto;
 }
 
+.navbar .home-logo img {
+    height: 150px;
+    width: auto;
+}
 /* MOBILE */
 
 @media (max-width: 768px) {
     .navbar .logo img {
         height: 50px;
         width: auto;
+    }
+
+    .navbar .home-logo img {
+    height: 95px;
+    width: auto;
     }
 }
 
