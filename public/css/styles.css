@@ -811,7 +811,7 @@ a {
 /* --------------------
    JOIN APPLY SECTION
 -------------------- */
-.join-apply a {
+.help-anchor {
     color: #3B637F;
     text-decoration: underline;
 }
